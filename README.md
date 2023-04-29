@@ -11,4 +11,4 @@ https://github.com/DaLae37/DL-Engine-Console
 
 # 보고서
 
-[파일]()
+[파일](https://github.com/DaLae37/Apartment/releases/download/v1.0.0/report.pdf)
